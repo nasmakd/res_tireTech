@@ -248,4 +248,10 @@ ul.productList .detail_btn::after{
       width: 95%;
    }
 }
+@media (max-width: 768px){
+   ul.tabList li a{
+      padding: 7px 5px;
+      margin: 0 3px;
+   }
+}
 
